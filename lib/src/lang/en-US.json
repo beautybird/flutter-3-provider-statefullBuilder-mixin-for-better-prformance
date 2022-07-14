@@ -1,0 +1,14 @@
+{
+  "home": "Home",
+  "home-sellerDetailsSaved": "Details Saved",
+  "home-sellerDetailsNotSaved": "Details Not Saved",
+  "home-sellerDetailsError": "Error..Details Not Saved",
+  "home-sellerDetailsFillAll": "Fill All Fields Details",
+  "drawer": "App Control",
+  "drawer_login": "Login",
+  "drawer_settings": "Settings",
+  "drawer_shareApp": "Share App",
+  "drawer_contactUs": "Contact Us",
+  "drawer_about": "About ",
+  "settings_settings": "Settings Page"
+}
