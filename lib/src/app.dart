@@ -7,7 +7,6 @@ import 'package:flutter3/src/providers/stateful_provider.dart';
 import 'package:flutter3/src/routes/home.dart';
 import 'package:flutter3/src/routes/login.dart';
 import 'package:flutter3/src/routes/map_provider.dart';
-import 'package:flutter3/src/routes/mixin_one.dart';
 import 'package:flutter3/src/routes/stateful_bulder.dart';
 import 'package:flutter3/src/routes/using_mixin.dart';
 import 'package:flutter3/src/settings/settings_view.dart';
